@@ -1,4 +1,4 @@
-![image](https://github.com/AlainPo/CV-Aliens/assets/109284542/9ac96584-389b-40fc-919a-d7083b63ed34)# CV-Aliens
+# CV-Aliens
 Проект и репозиторий посвящены погружению в основы Image Captioning с ноткой творчества, с которым всегда сопряжен ML)
 
 ## Мир инопланетян
