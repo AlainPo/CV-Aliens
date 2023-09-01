@@ -23,7 +23,7 @@
 ## Описание датасета
 
 Анализ, предобработка и работа над датасетом представлены в Colab блокноте: 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/16dzhZi3azLRqt5TyDG6WIyNNAFsYVez8?usp=sharing])
+<img src="https://colab.research.google.com/assets/colab-badge.svg" href="https://colab.research.google.com/drive/16dzhZi3azLRqt5TyDG6WIyNNAFsYVez8?usp=sharing">
 
 
 ### Проблематика
